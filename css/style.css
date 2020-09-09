@@ -639,7 +639,8 @@ a.contact_btn:hover {
     width: 100%;
     border-radius: 5px;
   }
-  
+
+
   .card:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
   }
@@ -2100,4 +2101,8 @@ img.img.img-circle.lt-box {
 float: left;
 width: 60px;
 height: auto;
+}
+hr.new1{
+    width:80%;
+    border: 0.5px solid #d5d7de;
 }
